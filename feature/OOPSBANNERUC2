@@ -1,11 +1,3 @@
-/**
- * OOPSBannerApp - UC2 Implementation
- * Prints large ASCII banner "OOPS"
- *
- * @author YASHWANTH
- * @version 2.0
- */
-
 public class OOPSBannerApp {
 
     public static void main(String[] args) {
